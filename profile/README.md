@@ -1,4 +1,4 @@
-# 🔍 Organización de Análisis de Datos & Data Science
+#  Análisis de Datos & Data Science
 
 Bienvenido a este espacio dedicado al **análisis de datos**, **ciencia de datos** y desarrollo de **proyectos colaborativos en GitHub**. Proposito  transformar datos en conocimiento útil mediante metodologías modernas, modelos estadísticos y herramientas de inteligencia artificial.
 
@@ -17,7 +17,7 @@ Objetivo el aprendizaje continuo, la colaboración abierta y la innovación basa
 
 ## 🚀 Tecnologías y Herramientas que Utilizamos
 
-Estas son las principales herramientas de nuestro stack de trabajo, cada una representada con su ícono/emoticón enlazado a su página oficial:
+Estas son las principales herramientas de stack de trabajo:
 
 - 🐍 **[Python](https://www.python.org/)**
 - 📊 **[Pandas](https://pandas.pydata.org/)**
@@ -33,9 +33,9 @@ Estas son las principales herramientas de nuestro stack de trabajo, cada una rep
 
 ---
 
-## 📂 Objetivo del Repositorio
+##  Objetivo del Repositorio
 
-Este repositorio reúne proyectos que muestran nuestra capacidad para:
+Este repositorio reúne proyectos que muestran :
 
 - Diseñar pipelines de análisis  
 - Procesar y transformar datos complejos  
