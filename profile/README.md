@@ -15,7 +15,7 @@ Objetivo el aprendizaje continuo, la colaboración  y la innovación basada en d
 
 ---
 
-## 🚀 Tecnologías y Herramientas :
+## Tecnologías y Herramientas :
 
 Estas son las principales herramientas de stack de trabajo:
 
@@ -32,6 +32,3 @@ Estas son las principales herramientas de stack de trabajo:
 - 📉 **[Seaborn](https://seaborn.pydata.org/)**
 
 ---
-
----
-
